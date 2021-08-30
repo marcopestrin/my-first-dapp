@@ -1,5 +1,5 @@
 {
-  "name": "pet-shop",
+  "name": "Marco Pestrin",
   "version": "1.0.0",
   "description": "",
   "main": "truffle.js",
@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.3.0"
+    "lite-server": "^2.6.1"
   },
   "dependencies": {
     "web3": "^1.5.2"
